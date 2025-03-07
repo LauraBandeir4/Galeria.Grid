@@ -3,7 +3,7 @@
 ![](./visaototal.png)
 
 ## Projeto 
-GAleria Grid feita com o professor Fernando Leonoid
+Galeria Grid feita com o professor Fernando Leonoid
 
 ## Tecnologias 
 * HTML
